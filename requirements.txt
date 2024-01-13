@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+langchain-google-genai 
+langchain-community
+unstructured_inference
+faiss-cpu
+python-dotenv 
+unstructured
+pypdf 
+pdf2image 
+pdfminer.six 
+pikepdf
